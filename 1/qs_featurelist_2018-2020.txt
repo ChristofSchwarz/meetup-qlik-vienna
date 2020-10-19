@@ -1,0 +1,147 @@
+Year	Release	Feature	Chart	AdvAuth
+2020	September	Custom tooltip	Bullet	1
+2020	September	Disable hover icons	App	1
+2020	September	Filter pane frequency count	Filter pane	1
+2020	September	WMS Opacity	Map	1
+2020	September	Sankey sort	Sankey	1
+2020	September	Animator in viz bundle	Viz bundle	1
+2020	September	Toggle borders	Container	1
+2020	September	Dimension reference lines	Bar	1
+2020	September	Dimension reference lines	Line	1
+2020	September	Master item number formatting	Master items	1
+2020	June	Fill on resize	App	
+2020	June	Sparklines	Table	1
+2020	June	Custom tooltip title description	Combo	1
+2020	June	Custom tooltip title description	Treemap	1
+2020	June	Custom tooltip title description	Bar	1
+2020	June	Custom tooltip title description	Scatter	1
+2020	June	Custom tooltip title description	Map	1
+2020	June	Custom tooltips on Line chart	Line	1
+2020	June	Highlight row on hover	Table	1
+2020	June	Scrollbar size	Table	1
+2020	June	Bullet chart	Bullet	1
+2020	June	Number format color by	Bar	1
+2020	June	Number format color by	Pie	1
+2020	June	Number format color by	Line	1
+2020	June	Filter text align	Filter pane	1
+2020	April	Default bookmark without landing sheet	Bookmarks	1
+2020	April	Sheet triggers	Sheet	1
+2020	April	Share bookmarks	Bookmarks	1
+2020	April	Layout state	Pivot	1
+2020	April	Org chart	Viz bundle	0
+2020	April	URL label search	Table	1
+2020	April	KPI fix size	KPI	1
+2020	April	Remove default measures	Combo	1
+2020	April	Remove default measures	Treemap	1
+2020	April	Remove default measures	Bar	1
+2020	April	Remove default measures	Scatter	1
+2020	April	Remove default measures	Map	1
+2020	April	Relative modifier	Bar	1
+2020	April	Relative modifier	Line	1
+2020	April	Relative modifier	Combo	1
+2020	April	Relative modifier	Table	1
+2020	April	Freeze column on touch devices	Table	1
+2020	April	Sort by first measure	Pivot	1
+2020	April	Number format size by and color by	Map	1
+2020	April	Silent install bundle	App	1
+2020	February	Trendlines	Bar	1
+2020	February	Trendlines	Line	1
+2020	February	Custom tooltips	Combo	1
+2020	February	Custom tooltips	Treemap	1
+2020	February	Custom tooltips	Bar	1
+2020	February	Custom tooltips	Scatter	1
+2020	February	Custom tooltips	Map	1
+2020	February	Native button	Button	1
+2020	February	Line style	Line	1
+2020	February	Point symbols	Map	1
+2020	February	Header and cell font size and color	Pivot	1
+2020	February	Moving average modifier	Bar	1
+2020	February	Moving average modifier	Line	1
+2020	February	Moving average modifier	Combo	1
+2020	February	Moving average modifier	Table	1
+2020	February	Difference modifier	Bar	1
+2020	February	Difference modifier	Line	1
+2020	February	Difference modifier	Combo	1
+2020	February	Difference modifier	Table	1
+2020	February	Table Indicators	Table	1
+2020	February	Duplicate measure, dimension	Properties	1
+2020	February	Disable map layer select	Map	1
+2020	February	Dimension color	Pivot	1
+2020	February	Gecoding QCS	GeoAnalytics	0
+2020	February	Font family	App	1
+2020	February	Sorting	Funnel	0
+2019	November	Accumulation	Bar	1
+2019	November	Accumulation	Line	1
+2019	November	Accumulation	Combo	1
+2019	November	Accumulation	Table	1
+2019	November	Mekko	Mekko	0
+2019	November	Header and cell font size and color	Table	1
+2019	November	2 dimension trellis	Viz bundle	1
+2019	November	Exclude map autozoom	Map	1
+2019	November	Set server url	GeoAnalytics	0
+2019	September	Variance waterfall, clickable	Viz bundle	1
+2019	September	Donut radius	Pie	1
+2019	September	Pie border width and color	Pie	1
+2019	September	My location	Map	0
+2019	September	GeoOperations	GeoAnalytics	0
+2019	September	App landing page	App	1
+2019	September	Increased search in filter panes	Filter pane	1
+2019	September	Expression to master item	Properties	1
+2019	June	Trellis	Viz bundle	1
+2019	June	P&L Pivot	Viz bundle	1
+2019	June	All bars visible	Bar	1
+2019	June	Bar width	Bar	1
+2019	June	Bar outline color and width	Bar	1
+2019	June	Segment labels on stacked	Bar	1
+2019	June	Dimensionless bar	Bar	1
+2019	June	Map exploration menu	Map	0
+2019	June	Copy cell value	Pivot	1
+2019	June	Copy cell value	Table	1
+2019	June	Grid layout	Sheet	1
+2019	June	Native container	Container	1
+2019	April	Map image background	Map	1
+2019	April	Default map background	Map	1
+2019	April	Bar & Area chart	Viz bundle	0
+2019	April	Bullet chart	Viz bundle	0
+2019	April	Associative Insights	App	0
+2019	February	Funnel chart	Viz bundle	0
+2019	February	Sankey chart	Viz bundle	0
+2019	February	Radar chart	Viz bundle	0
+2019	February	Multi KPI	Viz bundle	0
+2019	February	Heatmap	Viz bundle	0
+2019	February	Word cloud	Viz bundle	0
+2019	February	Network chart	Viz bundle	0
+2019	February	Share button	Dash bundle	0
+2019	February	WMS map layer	Map	0
+2019	February	Dollar expansion preview	Expr editor	1
+2019	February	Context help links	Expr editor	1
+2018	November	Set expression insert	Expr editor	1
+2018	November	Only one selected	App	1
+2018	November	Alternate states	App	1
+2018	November	Chart map layer	Map	0
+2018	November	Pie chart radius	Pie	0
+2018	November	Date range picker	Dash bundle	0
+2018	November	Navigation button	Dash bundle	1
+2018	November	Printing on demand	Dash bundle	1
+2018	November	Show/hide container	Dash bundle	1
+2018	November	Variable input	Dash bundle	1
+2018	September	Default Bookmark	Bookmarks	1
+2018	September	Custom sheet size	Sheet	1
+2018	September	Segment colors for Master Measures	App	1
+2018	September	Conditional Show on columns and rows	Pivot	1
+2018	September	Touch Screen Mode	App	0
+2018	September	Density map layer	Map	0
+2018	June	Scrollable sheets	Sheet	1
+2018	June	Change grid on populated sheet	Sheet	1
+2018	June	Distinct and total insert	Expr editor	1
+2018	June	Variable insert and preview	Expr editor	1
+2018	June	Function library	Expr editor	1
+2018	June 	Conditional Show on columns	Table	1
+2018	June	Mini graph on/off	Bar	1
+2018	June	Mini graph on/off	Line	1
+2018	June	Mini graph on/off	Combo	1
+2018	June	Keyboard navigation	App	1
+2018	June	Flip chart to table	App	1
+2018	April	Custom abbreviations	App	1
+2018	April	Grid size options	Sheet	1
+2018	February	Custom themes	App	1
