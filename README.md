@@ -1,5 +1,6 @@
 # meetup-qlik-vienna
-Files going with Qlik Meetup Vienna
+
+Files we like to share together with Qlik Meetup Vienna
 
 Main page link: https://www.meetup.com/qlik-meetup-vienna
 Announcement video: https://www.youtube.com/watch?v=me8HMoJc5dk
