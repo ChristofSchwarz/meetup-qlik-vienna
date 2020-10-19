@@ -4,7 +4,7 @@
 
 https://www.meetup.com/Qlik-Meetup-Vienna/events/273743351/
 
-Agenda:
- - Whats new in Qlik Sense (Christof Schwarz, data/\bridge)
+Agenda with Links:
+ - <a href="https://github.com/ChristofSchwarz/meetup-qlik-vienna/blob/main/1/Qlik%20Meetup%20Vienna.pdf">Whats new in Qlik Sense</a> (Christof Schwarz, data/\bridge)
  - Managing Master Items across Qlik Sense apps (Boris Michel, Inform)
 
